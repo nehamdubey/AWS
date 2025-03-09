@@ -22,4 +22,11 @@ Next, We need to change the default root password in order to start using the da
 
 !!!! It's always recommended to configure and set up your Database before your application comes up. If not application looks for the Database and app will fail.
 
+Now to connect to MySQL and see what databases are there
+
+  # sudo mysql
+  and then
+
+  mysql> show databases;
+
 Once you're done, proceed with the 003-backend.md
