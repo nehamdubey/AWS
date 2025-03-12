@@ -8,4 +8,3 @@ It has 3 RHEL9 Servers
 Also we need to configure the IPs on Backend server of DB server
 and on Frontend server of backend server
 Once this is all done you should be able to add the data on Expense App server.
-This is to test the git commands. updated this to test it.
