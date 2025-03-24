@@ -3,6 +3,9 @@ This Repo is for shell automation for the expnse module.
         1) for Frondend
         2) for mysql database and 
         3) for Backend
+We will be alinged with NFR 
+What is NFR?
+"NFR" can refer to either Non-Functional Requirements in software development
 
 We will be using IP addresses for now till we create domain and integrate with route53 in AWS
 We will be getting DNS from GOdaddy.com
